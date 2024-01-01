@@ -1,3 +1,5 @@
 # Vue todo
 Simple to app.
-[Vue-todo]("https://vue-to-do-application.netlify.app")
+
+## Link to app
+[Vue-todo](https://vue-to-do-application.netlify.app)
